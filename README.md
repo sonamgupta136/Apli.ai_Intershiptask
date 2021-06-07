@@ -1,8 +1,8 @@
 Online Web Assessment
 
 Requirements:
-Python3.9
-Visual Studio Code/Pycharm
+Python3.9.
+Visual Studio Code/Pycharm,
 Github Desktop/Git
 
 Completed Tasks:
